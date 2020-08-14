@@ -20,11 +20,11 @@ Learn how to scrape web content from HTML and see how web scraping differs to we
 - [Lab-5-Crawl-The-Web]
 - [Conclusion & Feedback]
 
-[Presentation]: ./Presentation/Intro_to_Golang.pdf
+[Presentation]: ./Presentation/Web_Scraping.pdf
 [Lab-0-Prerequisites]: ./Labs/lab-0.md
 [Lab-1-Basic-Go-App]: ./Labs/lab-1.md
 [Lab-2-Lets-Get-RESTful]: ./Labs/lab-2.md
 [Lab-3-Up-In-The-Cloud]: ./Labs/lab-3.md
 [Lab-4-Scrape-The-Web]: ./Labs/lab-4.md
 [Lab-5-Crawl-The-Web]: ./Labs/lab-5.md
-[Conclusion & Feedback]: ./Labs/conslusion.md
+[Conclusion & Feedback]: Labs/conclusion.md
